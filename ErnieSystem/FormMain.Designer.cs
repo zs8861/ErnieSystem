@@ -63,7 +63,7 @@
             // 
             this.textBoxX_SpecialAwardNum.Border.Class = "TextBoxBorder";
             this.textBoxX_SpecialAwardNum.Border.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.textBoxX_SpecialAwardNum.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBoxX_SpecialAwardNum.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.highlighter1.SetHighlightOnFocus(this.textBoxX_SpecialAwardNum, true);
             this.textBoxX_SpecialAwardNum.Location = new System.Drawing.Point(112, 52);
             this.textBoxX_SpecialAwardNum.Name = "textBoxX_SpecialAwardNum";
@@ -80,7 +80,7 @@
             // 
             this.labelX1.BackgroundStyle.Class = "";
             this.labelX1.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.labelX1.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.labelX1.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.labelX1.Location = new System.Drawing.Point(55, 48);
             this.labelX1.Name = "labelX1";
             this.labelX1.Size = new System.Drawing.Size(44, 23);
@@ -96,7 +96,7 @@
             // 
             this.labelX2.BackgroundStyle.Class = "";
             this.labelX2.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.labelX2.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.labelX2.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.labelX2.Location = new System.Drawing.Point(55, 77);
             this.labelX2.Name = "labelX2";
             this.labelX2.Size = new System.Drawing.Size(44, 23);
@@ -112,7 +112,7 @@
             // 
             this.labelX3.BackgroundStyle.Class = "";
             this.labelX3.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.labelX3.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.labelX3.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.labelX3.Location = new System.Drawing.Point(55, 106);
             this.labelX3.Name = "labelX3";
             this.labelX3.Size = new System.Drawing.Size(44, 23);
@@ -128,7 +128,7 @@
             // 
             this.labelX4.BackgroundStyle.Class = "";
             this.labelX4.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.labelX4.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.labelX4.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.labelX4.Location = new System.Drawing.Point(55, 135);
             this.labelX4.Name = "labelX4";
             this.labelX4.Size = new System.Drawing.Size(44, 23);
@@ -143,7 +143,7 @@
             // 
             this.textBoxX_FirstPriceNum.Border.Class = "TextBoxBorder";
             this.textBoxX_FirstPriceNum.Border.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.textBoxX_FirstPriceNum.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBoxX_FirstPriceNum.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.highlighter1.SetHighlightOnFocus(this.textBoxX_FirstPriceNum, true);
             this.textBoxX_FirstPriceNum.Location = new System.Drawing.Point(112, 79);
             this.textBoxX_FirstPriceNum.Name = "textBoxX_FirstPriceNum";
@@ -159,7 +159,7 @@
             // 
             this.textBoxX_SecondPriceNum.Border.Class = "TextBoxBorder";
             this.textBoxX_SecondPriceNum.Border.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.textBoxX_SecondPriceNum.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBoxX_SecondPriceNum.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.highlighter1.SetHighlightOnFocus(this.textBoxX_SecondPriceNum, true);
             this.textBoxX_SecondPriceNum.Location = new System.Drawing.Point(112, 106);
             this.textBoxX_SecondPriceNum.Name = "textBoxX_SecondPriceNum";
@@ -175,7 +175,7 @@
             // 
             this.textBoxX_ThirdPriceNum.Border.Class = "TextBoxBorder";
             this.textBoxX_ThirdPriceNum.Border.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.textBoxX_ThirdPriceNum.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.textBoxX_ThirdPriceNum.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.highlighter1.SetHighlightOnFocus(this.textBoxX_ThirdPriceNum, true);
             this.textBoxX_ThirdPriceNum.Location = new System.Drawing.Point(112, 133);
             this.textBoxX_ThirdPriceNum.Name = "textBoxX_ThirdPriceNum";
@@ -191,7 +191,7 @@
             // 
             this.labelX5.BackgroundStyle.Class = "";
             this.labelX5.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.labelX5.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.labelX5.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.labelX5.Location = new System.Drawing.Point(309, 50);
             this.labelX5.Name = "labelX5";
             this.labelX5.Size = new System.Drawing.Size(21, 23);
@@ -206,7 +206,7 @@
             // 
             this.labelX6.BackgroundStyle.Class = "";
             this.labelX6.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.labelX6.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.labelX6.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.labelX6.Location = new System.Drawing.Point(309, 77);
             this.labelX6.Name = "labelX6";
             this.labelX6.Size = new System.Drawing.Size(21, 23);
@@ -221,7 +221,7 @@
             // 
             this.labelX7.BackgroundStyle.Class = "";
             this.labelX7.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.labelX7.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.labelX7.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.labelX7.Location = new System.Drawing.Point(309, 135);
             this.labelX7.Name = "labelX7";
             this.labelX7.Size = new System.Drawing.Size(21, 23);
@@ -236,7 +236,7 @@
             // 
             this.labelX8.BackgroundStyle.Class = "";
             this.labelX8.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.labelX8.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.labelX8.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.labelX8.Location = new System.Drawing.Point(309, 105);
             this.labelX8.Name = "labelX8";
             this.labelX8.Size = new System.Drawing.Size(21, 23);
@@ -252,7 +252,7 @@
             // 
             this.buttonX_InportNameList.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
             this.buttonX_InportNameList.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
-            this.buttonX_InportNameList.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.buttonX_InportNameList.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.buttonX_InportNameList.Location = new System.Drawing.Point(135, 187);
             this.buttonX_InportNameList.Name = "buttonX_InportNameList";
             this.buttonX_InportNameList.Size = new System.Drawing.Size(100, 23);
@@ -265,7 +265,7 @@
             // 
             this.buttonX_StartErnie.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
             this.buttonX_StartErnie.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
-            this.buttonX_StartErnie.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.buttonX_StartErnie.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.buttonX_StartErnie.Location = new System.Drawing.Point(226, 152);
             this.buttonX_StartErnie.Name = "buttonX_StartErnie";
             this.buttonX_StartErnie.Size = new System.Drawing.Size(100, 23);
@@ -284,7 +284,7 @@
             this.checkBoxX_ReverseOrder.Checked = true;
             this.checkBoxX_ReverseOrder.CheckState = System.Windows.Forms.CheckState.Checked;
             this.checkBoxX_ReverseOrder.CheckValue = "Y";
-            this.checkBoxX_ReverseOrder.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.checkBoxX_ReverseOrder.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.checkBoxX_ReverseOrder.Location = new System.Drawing.Point(14, 127);
             this.checkBoxX_ReverseOrder.Name = "checkBoxX_ReverseOrder";
             this.checkBoxX_ReverseOrder.Size = new System.Drawing.Size(82, 23);
@@ -303,7 +303,7 @@
             this.groupPanel1.Controls.Add(this.buttonX_ModifyTitle);
             this.groupPanel1.Controls.Add(this.buttonX_StartErnie);
             this.groupPanel1.Controls.Add(this.checkBoxX_ReverseOrder);
-            this.groupPanel1.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.groupPanel1.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupPanel1.Location = new System.Drawing.Point(12, 12);
             this.groupPanel1.Name = "groupPanel1";
             this.groupPanel1.Size = new System.Drawing.Size(367, 261);
@@ -345,7 +345,7 @@
             // 
             this.buttonX_ModifyBackGround.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
             this.buttonX_ModifyBackGround.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
-            this.buttonX_ModifyBackGround.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.buttonX_ModifyBackGround.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.buttonX_ModifyBackGround.Location = new System.Drawing.Point(120, 186);
             this.buttonX_ModifyBackGround.Name = "buttonX_ModifyBackGround";
             this.buttonX_ModifyBackGround.Size = new System.Drawing.Size(100, 23);
@@ -358,7 +358,7 @@
             // 
             this.buttonX_ModifyEnieNum.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
             this.buttonX_ModifyEnieNum.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
-            this.buttonX_ModifyEnieNum.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.buttonX_ModifyEnieNum.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.buttonX_ModifyEnieNum.Location = new System.Drawing.Point(14, 186);
             this.buttonX_ModifyEnieNum.Name = "buttonX_ModifyEnieNum";
             this.buttonX_ModifyEnieNum.Size = new System.Drawing.Size(100, 23);
@@ -371,7 +371,7 @@
             // 
             this.buttonX_ModifyTitle.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
             this.buttonX_ModifyTitle.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
-            this.buttonX_ModifyTitle.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.buttonX_ModifyTitle.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.buttonX_ModifyTitle.Location = new System.Drawing.Point(14, 152);
             this.buttonX_ModifyTitle.Name = "buttonX_ModifyTitle";
             this.buttonX_ModifyTitle.Size = new System.Drawing.Size(100, 23);
@@ -411,7 +411,7 @@
             this.MaximizeBox = false;
             this.Name = "FormMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "海洋酒店摇奖系统 V1.0";
+            this.Text = "B站摇奖系统 V1.0";
             this.Load += new System.EventHandler(this.FormMain_Load);
             this.groupPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();

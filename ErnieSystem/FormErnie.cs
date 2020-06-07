@@ -273,10 +273,10 @@ namespace ErnieSystem
                     }
                     else
                     {
-                        string strSpecialPrice = "--- 特等奖 ---\r\n";
-                        string strFirstPrice = "--- 一等奖 ---\r\n";
-                        string strSecondPrice = "--- 二等奖 ---\r\n";
-                        string strThirdPrice = "---三等奖 ---\r\n";
+                        string strSpecialPrice = "特等奖：";
+                        string strFirstPrice = "一等奖：";
+                        string strSecondPrice = "二等奖：";
+                        string strThirdPrice = "三等奖：";
 
                         for (int j = 0; j < m_arrSpecialPrice.Count; j++)
                         {
@@ -295,7 +295,7 @@ namespace ErnieSystem
                             strThirdPrice += m_arrThirdPrice[j].ToString() + "\r\n";
                         }
 
-                        labelX3.Font = new System.Drawing.Font("微软雅黑", 12);
+                        labelX3.Font = new System.Drawing.Font("微软雅黑", 30);
                         setLabelX3Text(strSpecialPrice + strFirstPrice + strSecondPrice + strThirdPrice + "抽奖完毕，请按ESC键退出!");
 
                         //导出获奖名单：
@@ -313,22 +313,22 @@ namespace ErnieSystem
                     if (thirdPrice == 0)
                     {
                         thirdPrice--;
-                        setLabelX3Text(m_arrThirdPrice[m_arrThirdPrice.Count-1].ToString() + "\r\n(开始抽二等奖)");
+                        setLabelX3Text("三等奖：" + m_arrThirdPrice[m_arrThirdPrice.Count-1].ToString() + "\r\n(按Enter开始抽二等奖)");
                     }
                     if (secondPrice == 0)
                     {
                         secondPrice--;
-                        setLabelX3Text(m_arrSecondPrice[m_arrSecondPrice.Count - 1].ToString() + "\r\n(开始抽一等奖)");
+                        setLabelX3Text("二等奖：" + m_arrSecondPrice[m_arrSecondPrice.Count - 1].ToString() + "\r\n(按Enter开始抽一等奖)");
                     }
                     if (firstPrice == 0)
                     {
                         firstPrice--;
-                        setLabelX3Text(m_arrFirstPrice[m_arrFirstPrice.Count - 1].ToString() + "\r\n(开始抽特等奖)");
+                        setLabelX3Text("一等奖：" + m_arrFirstPrice[m_arrFirstPrice.Count - 1].ToString() + "\r\n(按Enter开始抽特等奖)");
                     }
                     if (specialPrice == 0)
                     {
-                        setLabelX3Text(m_arrSpecialPrice[m_arrSpecialPrice.Count - 1].ToString() + "\r\n(抽奖结束，按Enter键进入获奖名单-->)");
-                     }
+                        setLabelX3Text("特等奖：" + m_arrSpecialPrice[m_arrSpecialPrice.Count - 1].ToString() + "\r\n(抽奖结束，按Enter键进入获奖名单-->)");
+                    }
 
                 }
                 else

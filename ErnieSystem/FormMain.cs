@@ -38,9 +38,9 @@ namespace ErnieSystem
         {
             //获奖人数由用户在界面上设定
             textBoxX_SpecialAwardNum.Text = "1";
-            textBoxX_FirstPriceNum.Text = "2";
-            textBoxX_SecondPriceNum.Text = "5";
-            textBoxX_ThirdPriceNum.Text = "10";
+            textBoxX_FirstPriceNum.Text = "1";
+            textBoxX_SecondPriceNum.Text = "1";
+            textBoxX_ThirdPriceNum.Text = "1";
 
             //config.ini文件保存可修改的标题字符串
             string strPath = System.Environment.CurrentDirectory;
@@ -65,7 +65,7 @@ namespace ErnieSystem
             OpenFileDialog ofd = new OpenFileDialog();
             ofd.InitialDirectory = @"c:\";
             ofd.RestoreDirectory = true;
-            ofd.Filter = "Excel文档(*.xls)|*.xls|Excel文档(*.xlsx)|*.xlsx|所有文件(*.*)|*.*";
+            ofd.Filter = "Excel文档(*.xlsx)|*.xlsx|Excel文档(*.xls)|*.xls|所有文件(*.*)|*.*";
 
             if (ofd.ShowDialog() == DialogResult.OK)
             {
@@ -302,6 +302,6 @@ namespace ErnieSystem
 //             this.BackgroundImage = img;
         }
 
-#endregion
+        #endregion
     }
 }
